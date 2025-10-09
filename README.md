@@ -36,24 +36,7 @@
 
 ---
 
-## 💻 Technical Skills  
 
-**Programming Languages:**  
-Java • C# • C • C++ • JavaScript • Python  
-
-**Web Development:**  
-HTML • CSS • React.js • Node.js • Express.js • MongoDB • MERN Stack  
-
-**Databases:**  
-MySQL • SQL • MongoDB  
-
-**Tools & Platforms:**  
-Git • GitHub • VS Code • Eclipse • NetBeans  
-
-**Core Concepts:**  
-OOP • Data Structures & Algorithms • Software Engineering Principles • Operating Systems • Computer Networks  
-
----
 
 ## 🛠️ Tech Stack  
 
