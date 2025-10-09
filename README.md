@@ -19,7 +19,7 @@
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
 
-## 👨‍💻 About Me  
+<h3 align="left"> ## 👨‍💻 About Me  
 
 🌟 I’m **A.U.M. Ahsan**, a motivated **BICT (Hons)** undergraduate at the **University of Jaffna, Vavuniya Campus**, passionate about designing and developing clean, scalable, and user-friendly software solutions.  
 
