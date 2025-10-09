@@ -15,6 +15,9 @@
 <h3 align="center">💻 Passionate Developer | Creative Thinker | Lifelong Learner 🚀</h3>
 
 ---
+<!-- Coding GIF -->
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
+
 
 ## 👨‍💻 About Me  
 
