@@ -16,10 +16,12 @@
 
 ---
 <!-- Coding GIF -->
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
 
 
-<h3 align="left"> ## 👨‍💻 About Me  
+
+
+## 👨‍💻 About Me  
 
 🌟 I’m **A.U.M. Ahsan**, a motivated **BICT (Hons)** undergraduate at the **University of Jaffna, Vavuniya Campus**, passionate about designing and developing clean, scalable, and user-friendly software solutions.  
 
