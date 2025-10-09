@@ -135,7 +135,7 @@ A responsive personal portfolio showcasing my projects and skills.
 ## 🌐 Connect with Me  
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mohamed-ahsan">
+  <a href="https://www.linkedin.com/in/mohamed-ahsan-85baa5269/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   <a href="mailto:ahsanaum3@gmail.com">
