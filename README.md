@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://github.com/Aum-Ahsan/Aum-Ahsan/blob/main/assets/banner..jpg" alt="Ahsan Banner" width="850" height="350"/>
+  <img src="https://github.com/Aum-Ahsan/Aum-Ahsan/blob/main/assets/Mohamed%20Ahsan.png" alt="Ahsan Banner" width="850" height="350"/>
 </p>
 
 <!-- Animated Intro -->
