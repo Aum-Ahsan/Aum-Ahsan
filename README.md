@@ -65,12 +65,6 @@ A responsive personal portfolio showcasing my projects and skills.
 
 ---
 
-## 🏅 Certificates & Achievements  
-
-- 🧩 **Ultimate API Workshop – Postman & API Testing**, University of Vavuniya (May 2025)  
-- 🧭 **IEEE Membership – IEEE Student Branch**, University of Vavuniya (2025)  
-- 🧑‍🏫 **Leadership Training Program**, Career Guidance Unit & Vision Global Empowerment (Jan 2025)  
-- 🏆 **Oratosphere Award – Public Speaking & Communication**, Gavel Club, UoV  
 
 ---
 
