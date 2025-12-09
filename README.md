@@ -2,10 +2,12 @@
   <img src="https://github.com/Aum-Ahsan/Aum-Ahsan/blob/main/assets/Mohamed%20Ahsan.png" alt="Ahsan Banner" width="850" height="350"/>
 </p>
 
-<h2 align="center">🚀 Mohamed Ahsan | Full Stack Developer | Software Engineering Undergraduate</h2>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=34&duration=2400&pause=900&color=00C8FF&center=true&vCenter=true&width=900&lines=🚀+Mohamed+Ahsan;Full+Stack+Developer;Software+Engineering+Undergraduate;Java+%7C+MERN+Stack+%7C+C%23+Developer;Passionate+About+Clean+%26+Scalable+Software" />
+</h1>
 
 <p align="center">
-  Passionate about building reliable, scalable, and user-centric applications.
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="85%" />
 </p>
 
 ---
@@ -15,13 +17,13 @@
 Hello! I'm **A.U.M. Ahsan**, a **BICT (Hons)** undergraduate at the  
 **University of Jaffna – Vavuniya Campus**.
 
-I build modern software solutions—from full-stack web systems to Java-based desktop applications.
+I build modern, scalable applications with a strong focus on **clean code**, **high performance**, and **beautiful UI/UX**.
 
-### What I Do:
-- 🔭 Currently building **Smart Attendance Management System (QR + Face Recognition)**
-- 🌱 Learning: **React.js, Express.js, MongoDB, Node.js**
-- 💬 Ask me about: **Java, C#, APIs, MySQL, MERN**
-- 📫 Email: **ahsanaum3@gmail.com**
+### 🌟 What I Do
+- 🔭 Building **Smart Attendance System (QR + Face Recognition)**
+- 🌱 Learning **React.js | Node.js | Express.js | MongoDB**
+- 💬 Ask me about **Java, C#, APIs, MySQL, MERN, Frontend**
+- 📫 Reach me: **ahsanaum3@gmail.com**
 
 ---
 
@@ -35,72 +37,52 @@ I build modern software solutions—from full-stack web systems to Java-based de
 
 ## ⭐ Best Repositories
 
-These are my strongest and most polished projects:
-
-### 🧠 **Smart Attendance Management System**
-**Java Swing | MySQL | OpenCV**  
-A complete system using **QR Code + Face Recognition**.
-
-🔗 **GitHub Repo:**  
-https://github.com/Aum-Ahsan/Smart-Attendance-System  
+### 🧠 Smart Attendance Management System  
+**Java | Swing | MySQL | OpenCV | QR + Face Recognition**  
+🔗 https://github.com/Aum-Ahsan/Smart-Attendance-System  
 
 ---
 
-### 🐾 **Petshop Management System**
-**JavaScript | Node.js | Express | MongoDB**  
-A CRUD-based pet store management application.
-
-🔗 **GitHub Repo:**  
-https://github.com/Aum-Ahsan/petshop-management-system  
+### 🐾 Petshop Management System  
+**Node.js | Express | MongoDB | Admin Dashboard**  
+🔗 https://github.com/Aum-Ahsan/petshop-management-system  
 
 ---
 
-### 🌐 **Ahsan Portfolio**
-**React.js | Tailwind CSS**  
-My official portfolio website with animations & modern UI.
-
-🔗 **GitHub Repo:**  
-https://github.com/Aum-Ahsan/Ahsan-Portfolio  
-🔗 **Live Demo:**  
-https://aum-ahsan.github.io/Ahsan-Portfolio  
+### 🌐 Ahsan Portfolio  
+**React.js | Tailwind CSS | Responsive UI**  
+🔗 Repo: https://github.com/Aum-Ahsan/Ahsan-Portfolio  
+🔗 Live: https://aum-ahsan.github.io/Ahsan-Portfolio  
 
 ---
 
-### 🎯 **SmartQuizApp**
-**React.js | Context API**  
-Interactive quiz app with timer + scoring system.
-
-🔗 **GitHub Repo:**  
-https://github.com/Aum-Ahsan/SmartQuizApp  
+### 🎯 SmartQuizApp  
+**React | Context API | Timer | Scoring System**  
+🔗 https://github.com/Aum-Ahsan/SmartQuizApp  
 
 ---
 
-### 🗂️ **Task Management System**
-**TypeScript | React | JSON Storage**  
-A simple task tracker for productivity.
-
-🔗 **GitHub Repo:**  
-https://github.com/Aum-Ahsan/Task-Managment  
+### 📁 Task Management System  
+**React | TypeScript | JSON Storage**  
+🔗 https://github.com/Aum-Ahsan/Task-Managment  
 
 ---
 
-## 📁 View All My Repositories
+## 📂 View All My Repositories
 
 <p align="center">
   <a href="https://github.com/Aum-Ahsan?tab=repositories">
-    <img src="https://img.shields.io/badge/View%20All%20Repositories-00c8ff?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/VIEW%20ALL%20REPOSITORIES-00C8FF?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
-
-This button takes users **directly to all your GitHub repos**.
 
 ---
 
 ## 🏅 Achievements
 
-- 🧩 **Ultimate API Workshop – Postman & API Testing**, University of Vavuniya (2025)
-- 🧭 **IEEE Student Branch Membership**, University of Vavuniya
-- 🏆 **Oratosphere Award – Communication & Public Speaking**, Gavel Club – UoV
+- 🧩 **Ultimate API Workshop – Postman & API Testing (2025)**
+- 🧭 **IEEE Student Branch – University of Vavuniya**
+- 🏆 **Oratosphere Award – Public Speaking & Communication**
 
 ---
 
