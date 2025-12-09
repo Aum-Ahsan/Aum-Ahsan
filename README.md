@@ -15,12 +15,12 @@
 Hello! I'm **A.U.M. Ahsan**, a **BICT (Hons)** undergraduate at the  
 **University of Jaffna – Vavuniya Campus**.
 
-I enjoy solving real-world problems through clean architecture, efficient algorithms, and modern UI/UX practices.
+I build modern software solutions—from full-stack web systems to Java-based desktop applications.
 
 ### What I Do:
 - 🔭 Currently building **Smart Attendance Management System (QR + Face Recognition)**
-- 🌱 Learning & improving: **React.js, Node.js, MongoDB, Express.js**
-- 💬 Ask me about: **Java, C#, MySQL, API development, JS frameworks, UI/UX**
+- 🌱 Learning: **React.js, Express.js, MongoDB, Node.js**
+- 💬 Ask me about: **Java, C#, APIs, MySQL, MERN**
 - 📫 Email: **ahsanaum3@gmail.com**
 
 ---
@@ -33,49 +33,74 @@ I enjoy solving real-world problems through clean architecture, efficient algori
 
 ---
 
-## 🚀 Featured Projects
+## ⭐ Best Repositories
 
-### 🧠 Smart Attendance Management System
+These are my strongest and most polished projects:
+
+### 🧠 **Smart Attendance Management System**
 **Java Swing | MySQL | OpenCV**  
-A complete attendance solution using **QR code scanning + Face Recognition**, optimized for institutions.
+A complete system using **QR Code + Face Recognition**.
 
-🔗 **Project:** https://github.com/Aum-Ahsan/Smart-Attendance-System
-
----
-
-### 🌐 Ahsan Portfolio
-**React.js | TypeScript | Tailwind CSS**  
-A modern, responsive personal portfolio showcasing skills and projects.
-
-🔗 **Live Site:** https://aum-ahsan.github.io/Ahsan-Portfolio
+🔗 **GitHub Repo:**  
+https://github.com/Aum-Ahsan/Smart-Attendance-System  
 
 ---
 
-### 🎯 SmartQuizApp
-**React.js | Context API | JavaScript | HTML | CSS**  
-A dynamic quiz platform with **timers, scoring, and progress tracking**, ideal for exam preparation.
+### 🐾 **Petshop Management System**
+**JavaScript | Node.js | Express | MongoDB**  
+A CRUD-based pet store management application.
 
-🔗 **Project:** https://github.com/Aum-Ahsan/SmartQuizApp
+🔗 **GitHub Repo:**  
+https://github.com/Aum-Ahsan/petshop-management-system  
 
 ---
 
-### 📦 Additional Repositories
-You can explore more of my work here:
+### 🌐 **Ahsan Portfolio**
+**React.js | Tailwind CSS**  
+My official portfolio website with animations & modern UI.
 
-- Attendance-Management-QR  
-- NIC-Converter  
-- Petshop-Management-System  
-- Task-Management  
-- Library-Management-System  
-- And more…
+🔗 **GitHub Repo:**  
+https://github.com/Aum-Ahsan/Ahsan-Portfolio  
+🔗 **Live Demo:**  
+https://aum-ahsan.github.io/Ahsan-Portfolio  
+
+---
+
+### 🎯 **SmartQuizApp**
+**React.js | Context API**  
+Interactive quiz app with timer + scoring system.
+
+🔗 **GitHub Repo:**  
+https://github.com/Aum-Ahsan/SmartQuizApp  
+
+---
+
+### 🗂️ **Task Management System**
+**TypeScript | React | JSON Storage**  
+A simple task tracker for productivity.
+
+🔗 **GitHub Repo:**  
+https://github.com/Aum-Ahsan/Task-Managment  
+
+---
+
+## 📁 View All My Repositories
+
+<p align="center">
+  <a href="https://github.com/Aum-Ahsan?tab=repositories">
+    <img src="https://img.shields.io/badge/View%20All%20Repositories-00c8ff?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+This button takes users **directly to all your GitHub repos**.
 
 ---
 
 ## 🏅 Achievements
 
-- 🧩 **Ultimate API Workshop – Postman & API Testing**, University of Vavuniya (May 2025)  
-- 🧭 **IEEE Membership – IEEE Student Branch**, University of Vavuniya (2025)  
-- 🏆 **Oratosphere Award – Communication & Public Speaking**, Gavel Club – UoV  
+- 🧩 **Ultimate API Workshop – Postman & API Testing**, University of Vavuniya (2025)
+- 🧭 **IEEE Student Branch Membership**, University of Vavuniya
+- 🏆 **Oratosphere Award – Communication & Public Speaking**, Gavel Club – UoV
 
 ---
 
