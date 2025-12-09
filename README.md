@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=34&duration=2400&pause=900&color=00C8FF&center=true&vCenter=true&width=900&lines=🚀+Mohamed+Ahsan;Full+Stack+Developer;Software+Engineering+Undergraduate;Java+%7C+MERN+Stack+%7C+C%23+Developer;Passionate+About+Clean+%26+Scalable+Software" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=34&duration=2400&pause=900&color=000000&center=true&vCenter=true&width=900&lines=🚀+Mohamed+Ahsan;Full+Stack+Developer;Software+Engineering+Undergraduate;Java+%7C+MERN+Stack+%7C+C%23+Developer;Passionate+About+Clean+%26+Scalable+Software" />
 </h1>
 
 <p align="center">
@@ -39,8 +39,8 @@ I build modern, scalable applications with a strong focus on **clean code**, **h
 
 ### 🧠 Smart Attendance Management System  
 **Java | Swing | MySQL | OpenCV | QR + Face Recognition**  
-🔗 https://github.com/Aum-Ahsan/Smart-Attendance-System  
-
+🔗 https://github.com/Aum-Ahsan/Attendance-Management-QR
+🔗Watch on LinkedIn: https://www.linkedin.com/posts/mohamed-ahsan-85baa5269_java-qrcode-attendancesystem-activity-7382082871488045057-unQu
 ---
 
 ### 🐾 Petshop Management System  
@@ -59,12 +59,14 @@ I build modern, scalable applications with a strong focus on **clean code**, **h
 ### 🎯 SmartQuizApp  
 **React | Context API | Timer | Scoring System**  
 🔗 https://github.com/Aum-Ahsan/SmartQuizApp  
+🔗Watch on LinkedIn:https://www.linkedin.com/posts/mohamed-ahsan-85baa5269_reactjs-webdevelopment-placementprep-activity-7391826241693253632-pEUV?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAEHV2IcBaaHyrzYXSwuqCSUsEOWvTaSK13M
 
 ---
 
 ### 📁 Task Management System  
 **React | TypeScript | JSON Storage**  
 🔗 https://github.com/Aum-Ahsan/Task-Managment  
+🔗Live:https://task-managment-c5vc1s0eb-nic-converter.vercel.app/
 
 ---
 
@@ -72,7 +74,7 @@ I build modern, scalable applications with a strong focus on **clean code**, **h
 
 <p align="center">
   <a href="https://github.com/Aum-Ahsan?tab=repositories">
-    <img src="https://img.shields.io/badge/VIEW%20ALL%20REPOSITORIES-00C8FF?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/VIEW%20ALL%20REPOSITORIES-000000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
@@ -101,7 +103,7 @@ I build modern, scalable applications with a strong focus on **clean code**, **h
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Aum-Ahsan&label=Profile%20Views&color=00c8ff&style=flat" alt="views" />
+  <img src="https://komarev.com/ghpvc/?username=Aum-Ahsan&label=Profile%20Views&color=000000&style=flat" alt="views" />
 </p>
 
 ---
