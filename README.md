@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=34&duration=2400&pause=900&color=000000&center=true&vCenter=true&width=900&lines=🚀+Mohamed+Ahsan;Full+Stack+Developer;Software+Engineering+Undergraduate;Java+%7C+MERN+Stack+%7C+C%23+Developer;Passionate+About+Clean+%26+Scalable+Software" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=34&duration=2400&pause=900&center=true&vCenter=true&width=900&lines=🚀+Mohamed+Ahsan;Full+Stack+Developer;Software+Engineering+Undergraduate;Java+%7C+MERN+Stack+%7C+C%23+Developer;Passionate+About+Clean+%26+Scalable+Software&color=FF5733,33FF57,3357FF,FF33A8,FFD433" />
 </h1>
 
 <p align="center">
@@ -14,16 +14,19 @@
 
 ## 👨‍💻 About Me
 
-Hello! I'm **A.U.M. Ahsan**, a **BICT (Hons)** undergraduate at the  
+Hello! I'm **A.U.M. Ahsan**, a **BICT (Hons) Undergraduate** at the
 **University of Jaffna – Vavuniya Campus**.
 
 I build modern, scalable applications with a strong focus on **clean code**, **high performance**, and **beautiful UI/UX**.
 
-### 🌟 What I Do
-- 🔭 Building **Smart Attendance System (QR + Face Recognition)**
-- 🌱 Learning **React.js | Node.js | Express.js | MongoDB**
-- 💬 Ask me about **Java, C#, APIs, MySQL, MERN, Frontend**
-- 📫 Reach me: **ahsanaum3@gmail.com**
+---
+
+## 🌟 What I Do
+
+* 🔭 Building **Smart Attendance System (QR + Face Recognition)**
+* 🌱 Learning **React.js | Node.js | Express.js | MongoDB**
+* 💬 Ask me about: **Java, C#, APIs, MySQL, MERN Stack, Frontend Development**
+* 📫 Reach me: **[ahsanaum3@gmail.com](mailto:ahsanaum3@gmail.com)**
 
 ---
 
@@ -37,36 +40,47 @@ I build modern, scalable applications with a strong focus on **clean code**, **h
 
 ## ⭐ Best Repositories
 
-### 🧠 Smart Attendance Management System  
-**Java | Swing | MySQL | OpenCV | QR + Face Recognition**  
-🔗 https://github.com/Aum-Ahsan/Attendance-Management-QR
-🔗Watch on LinkedIn: https://www.linkedin.com/posts/mohamed-ahsan-85baa5269_java-qrcode-attendancesystem-activity-7382082871488045057-unQu
----
+### 🧠 Smart Attendance Management System
 
-### 🐾 Petshop Management System  
-**Node.js | Express | MongoDB | Admin Dashboard**  
-🔗 https://github.com/Aum-Ahsan/petshop-management-system  
+**Java | Swing | MySQL | OpenCV | QR + Face Recognition**
+
+* 🔗 GitHub: [https://github.com/Aum-Ahsan/Attendance-Management-QR](https://github.com/Aum-Ahsan/Attendance-Management-QR)
+* 🔗 LinkedIn: [https://www.linkedin.com/posts/mohamed-ahsan-85baa5269_java-qrcode-attendancesystem-activity-7382082871488045057-unQu](https://www.linkedin.com/posts/mohamed-ahsan-85baa5269_java-qrcode-attendancesystem-activity-7382082871488045057-unQu)
 
 ---
 
-### 🌐 Ahsan Portfolio  
-**React.js | Tailwind CSS | Responsive UI**  
-🔗 Repo: https://github.com/Aum-Ahsan/Ahsan-Portfolio  
-🔗 Live: https://aum-ahsan.github.io/Ahsan-Portfolio  
+### 🐾 Petshop Management System
+
+**Node.js | Express | MongoDB | Admin Dashboard**
+
+* 🔗 GitHub: [https://github.com/Aum-Ahsan/petshop-management-system](https://github.com/Aum-Ahsan/petshop-management-system)
 
 ---
 
-### 🎯 SmartQuizApp  
-**React | Context API | Timer | Scoring System**  
-🔗 https://github.com/Aum-Ahsan/SmartQuizApp  
-🔗Watch on LinkedIn:https://www.linkedin.com/posts/mohamed-ahsan-85baa5269_reactjs-webdevelopment-placementprep-activity-7391826241693253632-pEUV?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAEHV2IcBaaHyrzYXSwuqCSUsEOWvTaSK13M
+### 🌐 Ahsan Portfolio
+
+**React.js | Tailwind CSS | Responsive UI**
+
+* 🔗 GitHub: [https://github.com/Aum-Ahsan/Ahsan-Portfolio](https://github.com/Aum-Ahsan/Ahsan-Portfolio)
+* 🔗 Live: [https://aum-ahsan.github.io/Ahsan-Portfolio](https://aum-ahsan.github.io/Ahsan-Portfolio)
 
 ---
 
-### 📁 Task Management System  
-**React | TypeScript | JSON Storage**  
-🔗 https://github.com/Aum-Ahsan/Task-Managment  
-🔗Live:https://task-managment-c5vc1s0eb-nic-converter.vercel.app/
+### 🎯 SmartQuizApp
+
+**React | Context API | Timer | Scoring System**
+
+* 🔗 GitHub: [https://github.com/Aum-Ahsan/SmartQuizApp](https://github.com/Aum-Ahsan/SmartQuizApp)
+* 🔗 LinkedIn: [https://www.linkedin.com/posts/mohamed-ahsan-85baa5269_reactjs-webdevelopment-placementprep-activity-7391826241693253632-pEUV](https://www.linkedin.com/posts/mohamed-ahsan-85baa5269_reactjs-webdevelopment-placementprep-activity-7391826241693253632-pEUV)
+
+---
+
+### 📁 Task Management System
+
+**React | TypeScript | JSON Storage**
+
+* 🔗 GitHub: [https://github.com/Aum-Ahsan/Task-Management](https://github.com/Aum-Ahsan/Task-Management)
+* 🔗 Live: [https://task-managment-c5vc1s0eb-nic-converter.vercel.app/](https://task-managment-c5vc1s0eb-nic-converter.vercel.app/)
 
 ---
 
@@ -82,9 +96,9 @@ I build modern, scalable applications with a strong focus on **clean code**, **h
 
 ## 🏅 Achievements
 
-- 🧩 **Ultimate API Workshop – Postman & API Testing (2025)**
-- 🧭 **IEEE Student Branch – University of Vavuniya**
-- 🏆 **Oratosphere Award – Public Speaking & Communication**
+* 🧩 **Ultimate API Workshop – Postman & API Testing (2025)**
+* 🧭 **IEEE Student Branch – University of Vavuniya**
+* 🏆 **Oratosphere Award – Public Speaking & Communication**
 
 ---
 
