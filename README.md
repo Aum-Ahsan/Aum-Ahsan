@@ -79,7 +79,7 @@ I build modern, scalable applications with a strong focus on **clean code**, **h
 
 **React | TypeScript | JSON Storage**
 
-*🔗 GitHub: https://github.com/Aum-Ahsan/Task-Managmen
+* 🔗 GitHub: https://github.com/Aum-Ahsan/Task-Managment
 * 🔗 Live: [https://task-managment-c5vc1s0eb-nic-converter.vercel.app/](https://task-managment-c5vc1s0eb-nic-converter.vercel.app/)
 
 
